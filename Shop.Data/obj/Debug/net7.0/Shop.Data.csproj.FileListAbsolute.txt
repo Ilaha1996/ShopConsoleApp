@@ -1,0 +1,15 @@
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.csproj.AssemblyReference.cache
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.AssemblyInfoInputs.cache
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.AssemblyInfo.cs
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\bin\Debug\net7.0\Shop.Data.deps.json
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\bin\Debug\net7.0\Shop.Data.dll
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\bin\Debug\net7.0\Shop.Data.pdb
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\bin\Debug\net7.0\Shop.Core.dll
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\bin\Debug\net7.0\Shop.Core.pdb
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.csproj.CopyComplete
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.dll
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\refint\Shop.Data.dll
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\Shop.Data.pdb
+C:\Users\ilahaah\source\repos\Shop\Shop.Data\obj\Debug\net7.0\ref\Shop.Data.dll

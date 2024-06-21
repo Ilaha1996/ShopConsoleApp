@@ -1,0 +1,12 @@
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\bin\Debug\net7.0\Shop.Core.deps.json
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\bin\Debug\net7.0\Shop.Core.dll
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\bin\Debug\net7.0\Shop.Core.pdb
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\Shop.Core.AssemblyInfo.cs
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\Shop.Core.dll
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\refint\Shop.Core.dll
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\Shop.Core.pdb
+C:\Users\ilahaah\source\repos\Shop\Shop.Core\obj\Debug\net7.0\ref\Shop.Core.dll
